@@ -1,0 +1,259 @@
+2024-10-20 14:53:40,500 - INFO - 
+Fetching weather data...
+2024-10-20 14:53:40,838 - INFO - Weather data for Delhi: {'city': 'Delhi', 'main': 'Haze', 'temp': 34.960000000000036, 'feels_like': 39.10000000000002, 'humidity': 46, 'wind_speed': 1.03, 'dt': '2024-10-20 09:17:50'}
+2024-10-20 14:53:40,838 - INFO - Temperature in Delhi: 34.96°C
+2024-10-20 14:53:40,838 - WARNING - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:53:41,151 - INFO - Weather data for Mumbai: {'city': 'Mumbai', 'main': 'Haze', 'temp': 31.99000000000001, 'feels_like': 37.670000000000016, 'humidity': 62, 'wind_speed': 3.09, 'dt': '2024-10-20 09:18:28'}
+2024-10-20 14:53:41,151 - INFO - Temperature in Mumbai: 31.99°C
+2024-10-20 14:53:41,151 - WARNING - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:53:41,484 - INFO - Weather data for Chennai: {'city': 'Chennai', 'main': 'Mist', 'temp': 31.610000000000014, 'feels_like': 38.610000000000014, 'humidity': 77, 'wind_speed': 3.09, 'dt': '2024-10-20 09:23:15'}
+2024-10-20 14:53:41,484 - INFO - Temperature in Chennai: 31.61°C
+2024-10-20 14:53:41,484 - WARNING - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:53:41,800 - INFO - Weather data for Bangalore: {'city': 'Bangalore', 'main': 'Clouds', 'temp': 27.720000000000027, 'feels_like': 29.900000000000034, 'humidity': 68, 'wind_speed': 2.06, 'dt': '2024-10-20 09:21:25'}
+2024-10-20 14:53:41,800 - INFO - Temperature in Bangalore: 27.72°C
+2024-10-20 14:53:42,100 - INFO - Weather data for Kolkata: {'city': 'Kolkata', 'main': 'Haze', 'temp': 31.970000000000027, 'feels_like': 35.58000000000004, 'humidity': 55, 'wind_speed': 3.6, 'dt': '2024-10-20 09:20:49'}
+2024-10-20 14:53:42,100 - INFO - Temperature in Kolkata: 31.97°C
+2024-10-20 14:53:42,100 - WARNING - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:53:42,444 - INFO - Weather data for Hyderabad: {'city': 'Hyderabad', 'main': 'Haze', 'temp': 30.230000000000018, 'feels_like': 33.710000000000036, 'humidity': 62, 'wind_speed': 5.14, 'dt': '2024-10-20 09:21:26'}
+2024-10-20 14:53:42,444 - INFO - Temperature in Hyderabad: 30.23°C
+2024-10-20 14:53:42,444 - WARNING - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:53:52,464 - INFO - Daily summary calculated
+2024-10-20 14:53:52,464 - INFO - Daily summary saved to daily_weather_summary.csv
+2024-10-20 14:53:52,714 - INFO - Daily summary calculated
+2024-10-20 14:53:52,714 - INFO - 
+--- Alerts Summary ---
+2024-10-20 14:53:52,714 - INFO - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:53:52,714 - INFO - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:53:52,714 - INFO - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:53:52,714 - INFO - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:53:52,714 - INFO - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:53:52,730 - INFO - 
+Fetching weather data...
+2024-10-20 14:53:53,055 - INFO - Weather data for Delhi: {'city': 'Delhi', 'main': 'Haze', 'temp': 34.960000000000036, 'feels_like': 39.10000000000002, 'humidity': 46, 'wind_speed': 1.03, 'dt': '2024-10-20 09:17:50'}
+2024-10-20 14:53:53,055 - INFO - Temperature in Delhi: 34.96°C
+2024-10-20 14:53:53,055 - WARNING - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:53:53,384 - INFO - Weather data for Mumbai: {'city': 'Mumbai', 'main': 'Haze', 'temp': 31.99000000000001, 'feels_like': 37.670000000000016, 'humidity': 62, 'wind_speed': 3.09, 'dt': '2024-10-20 09:18:28'}
+2024-10-20 14:53:53,385 - INFO - Temperature in Mumbai: 31.99°C
+2024-10-20 14:53:53,385 - WARNING - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:53:53,702 - INFO - Weather data for Chennai: {'city': 'Chennai', 'main': 'Mist', 'temp': 31.610000000000014, 'feels_like': 38.610000000000014, 'humidity': 77, 'wind_speed': 3.09, 'dt': '2024-10-20 09:23:15'}
+2024-10-20 14:53:53,702 - INFO - Temperature in Chennai: 31.61°C
+2024-10-20 14:53:53,702 - WARNING - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:53:54,008 - INFO - Weather data for Bangalore: {'city': 'Bangalore', 'main': 'Clouds', 'temp': 27.720000000000027, 'feels_like': 29.900000000000034, 'humidity': 68, 'wind_speed': 2.06, 'dt': '2024-10-20 09:21:25'}
+2024-10-20 14:53:54,008 - INFO - Temperature in Bangalore: 27.72°C
+2024-10-20 14:53:54,336 - INFO - Weather data for Kolkata: {'city': 'Kolkata', 'main': 'Haze', 'temp': 31.970000000000027, 'feels_like': 35.58000000000004, 'humidity': 55, 'wind_speed': 3.6, 'dt': '2024-10-20 09:20:49'}
+2024-10-20 14:53:54,336 - INFO - Temperature in Kolkata: 31.97°C
+2024-10-20 14:53:54,336 - WARNING - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:53:54,644 - INFO - Weather data for Hyderabad: {'city': 'Hyderabad', 'main': 'Haze', 'temp': 30.230000000000018, 'feels_like': 33.710000000000036, 'humidity': 62, 'wind_speed': 5.14, 'dt': '2024-10-20 09:21:26'}
+2024-10-20 14:53:54,644 - INFO - Temperature in Hyderabad: 30.23°C
+2024-10-20 14:53:54,644 - WARNING - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:04,657 - INFO - Daily summary calculated
+2024-10-20 14:54:04,658 - INFO - Daily summary saved to daily_weather_summary.csv
+2024-10-20 14:54:04,838 - INFO - Daily summary calculated
+2024-10-20 14:54:04,838 - INFO - 
+--- Alerts Summary ---
+2024-10-20 14:54:04,838 - INFO - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:04,838 - INFO - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:04,838 - INFO - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:04,838 - INFO - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:04,838 - INFO - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:04,838 - INFO - 
+Fetching weather data...
+2024-10-20 14:54:05,160 - INFO - Weather data for Delhi: {'city': 'Delhi', 'main': 'Haze', 'temp': 34.960000000000036, 'feels_like': 39.10000000000002, 'humidity': 46, 'wind_speed': 1.03, 'dt': '2024-10-20 09:17:50'}
+2024-10-20 14:54:05,160 - INFO - Temperature in Delhi: 34.96°C
+2024-10-20 14:54:05,160 - WARNING - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:05,514 - INFO - Weather data for Mumbai: {'city': 'Mumbai', 'main': 'Haze', 'temp': 31.99000000000001, 'feels_like': 37.670000000000016, 'humidity': 62, 'wind_speed': 3.09, 'dt': '2024-10-20 09:18:28'}
+2024-10-20 14:54:05,514 - INFO - Temperature in Mumbai: 31.99°C
+2024-10-20 14:54:05,514 - WARNING - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:05,817 - INFO - Weather data for Chennai: {'city': 'Chennai', 'main': 'Mist', 'temp': 31.610000000000014, 'feels_like': 38.610000000000014, 'humidity': 77, 'wind_speed': 3.09, 'dt': '2024-10-20 09:23:15'}
+2024-10-20 14:54:05,832 - INFO - Temperature in Chennai: 31.61°C
+2024-10-20 14:54:05,832 - WARNING - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:06,155 - INFO - Weather data for Bangalore: {'city': 'Bangalore', 'main': 'Clouds', 'temp': 27.720000000000027, 'feels_like': 29.900000000000034, 'humidity': 68, 'wind_speed': 2.06, 'dt': '2024-10-20 09:21:25'}
+2024-10-20 14:54:06,155 - INFO - Temperature in Bangalore: 27.72°C
+2024-10-20 14:54:06,454 - INFO - 
+Fetching weather data...
+2024-10-20 14:54:06,470 - INFO - Weather data for Kolkata: {'city': 'Kolkata', 'main': 'Haze', 'temp': 31.970000000000027, 'feels_like': 35.58000000000004, 'humidity': 55, 'wind_speed': 3.6, 'dt': '2024-10-20 09:20:49'}
+2024-10-20 14:54:06,470 - INFO - Temperature in Kolkata: 31.97°C
+2024-10-20 14:54:06,470 - WARNING - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:06,769 - INFO - Weather data for Delhi: {'city': 'Delhi', 'main': 'Haze', 'temp': 34.960000000000036, 'feels_like': 39.10000000000002, 'humidity': 46, 'wind_speed': 1.03, 'dt': '2024-10-20 09:17:50'}
+2024-10-20 14:54:06,769 - INFO - Temperature in Delhi: 34.96°C
+2024-10-20 14:54:06,769 - WARNING - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:06,784 - INFO - Weather data for Hyderabad: {'city': 'Hyderabad', 'main': 'Haze', 'temp': 30.230000000000018, 'feels_like': 33.710000000000036, 'humidity': 62, 'wind_speed': 5.14, 'dt': '2024-10-20 09:21:26'}
+2024-10-20 14:54:06,784 - INFO - Temperature in Hyderabad: 30.23°C
+2024-10-20 14:54:06,784 - WARNING - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:07,112 - INFO - Weather data for Mumbai: {'city': 'Mumbai', 'main': 'Haze', 'temp': 31.99000000000001, 'feels_like': 37.670000000000016, 'humidity': 62, 'wind_speed': 3.09, 'dt': '2024-10-20 09:18:28'}
+2024-10-20 14:54:07,112 - INFO - Temperature in Mumbai: 31.99°C
+2024-10-20 14:54:07,112 - WARNING - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:07,463 - INFO - Weather data for Chennai: {'city': 'Chennai', 'main': 'Mist', 'temp': 31.610000000000014, 'feels_like': 38.610000000000014, 'humidity': 77, 'wind_speed': 3.09, 'dt': '2024-10-20 09:23:15'}
+2024-10-20 14:54:07,463 - INFO - Temperature in Chennai: 31.61°C
+2024-10-20 14:54:07,464 - WARNING - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:07,795 - INFO - Weather data for Bangalore: {'city': 'Bangalore', 'main': 'Clouds', 'temp': 27.720000000000027, 'feels_like': 29.900000000000034, 'humidity': 68, 'wind_speed': 2.06, 'dt': '2024-10-20 09:21:25'}
+2024-10-20 14:54:07,795 - INFO - Temperature in Bangalore: 27.72°C
+2024-10-20 14:54:08,147 - INFO - Weather data for Kolkata: {'city': 'Kolkata', 'main': 'Haze', 'temp': 31.970000000000027, 'feels_like': 35.58000000000004, 'humidity': 55, 'wind_speed': 3.6, 'dt': '2024-10-20 09:20:49'}
+2024-10-20 14:54:08,147 - INFO - Temperature in Kolkata: 31.97°C
+2024-10-20 14:54:08,147 - WARNING - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:08,492 - INFO - Weather data for Hyderabad: {'city': 'Hyderabad', 'main': 'Haze', 'temp': 30.230000000000018, 'feels_like': 33.710000000000036, 'humidity': 62, 'wind_speed': 5.14, 'dt': '2024-10-20 09:21:26'}
+2024-10-20 14:54:08,492 - INFO - Temperature in Hyderabad: 30.23°C
+2024-10-20 14:54:08,492 - WARNING - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:11,518 - INFO - 
+Program terminated by user.
+2024-10-20 14:54:11,518 - INFO - 
+--- Alerts Summary ---
+2024-10-20 14:54:11,518 - INFO - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:11,518 - INFO - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:11,518 - INFO - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:11,518 - INFO - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:11,518 - INFO - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:15,709 - INFO - 
+Fetching weather data...
+2024-10-20 14:54:16,023 - INFO - Weather data for Delhi: {'city': 'Delhi', 'main': 'Haze', 'temp': 34.960000000000036, 'feels_like': 39.10000000000002, 'humidity': 46, 'wind_speed': 1.03, 'dt': '2024-10-20 09:17:50'}
+2024-10-20 14:54:16,023 - INFO - Temperature in Delhi: 34.96°C
+2024-10-20 14:54:16,023 - WARNING - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:16,332 - INFO - Weather data for Mumbai: {'city': 'Mumbai', 'main': 'Haze', 'temp': 31.99000000000001, 'feels_like': 37.670000000000016, 'humidity': 62, 'wind_speed': 3.09, 'dt': '2024-10-20 09:18:28'}
+2024-10-20 14:54:16,332 - INFO - Temperature in Mumbai: 31.99°C
+2024-10-20 14:54:16,332 - WARNING - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:16,678 - INFO - Weather data for Chennai: {'city': 'Chennai', 'main': 'Mist', 'temp': 31.610000000000014, 'feels_like': 38.610000000000014, 'humidity': 77, 'wind_speed': 3.09, 'dt': '2024-10-20 09:23:15'}
+2024-10-20 14:54:16,678 - INFO - Temperature in Chennai: 31.61°C
+2024-10-20 14:54:16,678 - WARNING - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:16,793 - INFO - Daily summary calculated
+2024-10-20 14:54:16,793 - INFO - Daily summary saved to daily_weather_summary.csv
+2024-10-20 14:54:16,975 - INFO - Daily summary calculated
+2024-10-20 14:54:16,975 - INFO - 
+--- Alerts Summary ---
+2024-10-20 14:54:16,975 - INFO - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:16,975 - INFO - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:16,975 - INFO - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:16,975 - INFO - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:16,975 - INFO - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:16,991 - INFO - Weather data for Bangalore: {'city': 'Bangalore', 'main': 'Clouds', 'temp': 27.720000000000027, 'feels_like': 29.900000000000034, 'humidity': 68, 'wind_speed': 2.06, 'dt': '2024-10-20 09:21:25'}
+2024-10-20 14:54:16,991 - INFO - Temperature in Bangalore: 27.72°C
+2024-10-20 14:54:17,310 - INFO - Weather data for Kolkata: {'city': 'Kolkata', 'main': 'Haze', 'temp': 31.970000000000027, 'feels_like': 35.58000000000004, 'humidity': 55, 'wind_speed': 3.6, 'dt': '2024-10-20 09:20:49'}
+2024-10-20 14:54:17,310 - INFO - Temperature in Kolkata: 31.97°C
+2024-10-20 14:54:17,310 - WARNING - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:17,633 - INFO - Weather data for Hyderabad: {'city': 'Hyderabad', 'main': 'Haze', 'temp': 30.230000000000018, 'feels_like': 33.710000000000036, 'humidity': 62, 'wind_speed': 5.14, 'dt': '2024-10-20 09:21:26'}
+2024-10-20 14:54:17,633 - INFO - Temperature in Hyderabad: 30.23°C
+2024-10-20 14:54:17,633 - WARNING - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:18,102 - INFO - 
+Fetching weather data...
+2024-10-20 14:54:18,462 - INFO - Weather data for Delhi: {'city': 'Delhi', 'main': 'Haze', 'temp': 34.960000000000036, 'feels_like': 39.10000000000002, 'humidity': 46, 'wind_speed': 1.03, 'dt': '2024-10-20 09:17:50'}
+2024-10-20 14:54:18,462 - INFO - Temperature in Delhi: 34.96°C
+2024-10-20 14:54:18,462 - WARNING - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:18,808 - INFO - Weather data for Mumbai: {'city': 'Mumbai', 'main': 'Haze', 'temp': 31.99000000000001, 'feels_like': 37.670000000000016, 'humidity': 62, 'wind_speed': 3.09, 'dt': '2024-10-20 09:18:28'}
+2024-10-20 14:54:18,808 - INFO - Temperature in Mumbai: 31.99°C
+2024-10-20 14:54:18,808 - WARNING - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:19,117 - INFO - Weather data for Chennai: {'city': 'Chennai', 'main': 'Mist', 'temp': 31.610000000000014, 'feels_like': 38.610000000000014, 'humidity': 77, 'wind_speed': 3.09, 'dt': '2024-10-20 09:23:15'}
+2024-10-20 14:54:19,117 - INFO - Temperature in Chennai: 31.61°C
+2024-10-20 14:54:19,117 - WARNING - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:19,465 - INFO - Weather data for Bangalore: {'city': 'Bangalore', 'main': 'Clouds', 'temp': 27.720000000000027, 'feels_like': 29.900000000000034, 'humidity': 68, 'wind_speed': 2.06, 'dt': '2024-10-20 09:21:25'}
+2024-10-20 14:54:19,465 - INFO - Temperature in Bangalore: 27.72°C
+2024-10-20 14:54:19,819 - INFO - Weather data for Kolkata: {'city': 'Kolkata', 'main': 'Haze', 'temp': 31.970000000000027, 'feels_like': 35.58000000000004, 'humidity': 55, 'wind_speed': 3.6, 'dt': '2024-10-20 09:20:49'}
+2024-10-20 14:54:19,819 - INFO - Temperature in Kolkata: 31.97°C
+2024-10-20 14:54:19,819 - WARNING - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:20,128 - INFO - Weather data for Hyderabad: {'city': 'Hyderabad', 'main': 'Haze', 'temp': 30.230000000000018, 'feels_like': 33.710000000000036, 'humidity': 62, 'wind_speed': 5.14, 'dt': '2024-10-20 09:21:26'}
+2024-10-20 14:54:20,128 - INFO - Temperature in Hyderabad: 30.23°C
+2024-10-20 14:54:20,128 - WARNING - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:27,651 - INFO - Daily summary calculated
+2024-10-20 14:54:27,651 - INFO - Daily summary saved to daily_weather_summary.csv
+2024-10-20 14:54:27,886 - INFO - Daily summary calculated
+2024-10-20 14:54:27,886 - INFO - 
+--- Alerts Summary ---
+2024-10-20 14:54:27,886 - INFO - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:27,886 - INFO - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:27,886 - INFO - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:27,886 - INFO - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:27,886 - INFO - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:27,886 - INFO - 
+Fetching weather data...
+2024-10-20 14:54:28,234 - INFO - Weather data for Delhi: {'city': 'Delhi', 'main': 'Haze', 'temp': 34.960000000000036, 'feels_like': 39.10000000000002, 'humidity': 46, 'wind_speed': 1.03, 'dt': '2024-10-20 09:17:50'}
+2024-10-20 14:54:28,234 - INFO - Temperature in Delhi: 34.96°C
+2024-10-20 14:54:28,234 - WARNING - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:28,553 - INFO - Weather data for Mumbai: {'city': 'Mumbai', 'main': 'Haze', 'temp': 31.99000000000001, 'feels_like': 37.670000000000016, 'humidity': 62, 'wind_speed': 3.09, 'dt': '2024-10-20 09:18:28'}
+2024-10-20 14:54:28,553 - INFO - Temperature in Mumbai: 31.99°C
+2024-10-20 14:54:28,553 - WARNING - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:28,890 - INFO - Weather data for Chennai: {'city': 'Chennai', 'main': 'Mist', 'temp': 31.610000000000014, 'feels_like': 38.610000000000014, 'humidity': 77, 'wind_speed': 3.09, 'dt': '2024-10-20 09:23:15'}
+2024-10-20 14:54:28,890 - INFO - Temperature in Chennai: 31.61°C
+2024-10-20 14:54:28,890 - WARNING - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:29,250 - INFO - Weather data for Bangalore: {'city': 'Bangalore', 'main': 'Clouds', 'temp': 27.720000000000027, 'feels_like': 29.900000000000034, 'humidity': 68, 'wind_speed': 2.06, 'dt': '2024-10-20 09:21:25'}
+2024-10-20 14:54:29,250 - INFO - Temperature in Bangalore: 27.72°C
+2024-10-20 14:54:29,582 - INFO - Weather data for Kolkata: {'city': 'Kolkata', 'main': 'Haze', 'temp': 31.970000000000027, 'feels_like': 35.58000000000004, 'humidity': 55, 'wind_speed': 3.6, 'dt': '2024-10-20 09:20:49'}
+2024-10-20 14:54:29,582 - INFO - Temperature in Kolkata: 31.97°C
+2024-10-20 14:54:29,582 - WARNING - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:29,928 - INFO - Weather data for Hyderabad: {'city': 'Hyderabad', 'main': 'Haze', 'temp': 30.230000000000018, 'feels_like': 33.710000000000036, 'humidity': 62, 'wind_speed': 5.14, 'dt': '2024-10-20 09:21:26'}
+2024-10-20 14:54:29,928 - INFO - Temperature in Hyderabad: 30.23°C
+2024-10-20 14:54:29,928 - WARNING - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:30,150 - INFO - Daily summary calculated
+2024-10-20 14:54:30,150 - INFO - Daily summary saved to daily_weather_summary.csv
+2024-10-20 14:54:30,401 - INFO - Daily summary calculated
+2024-10-20 14:54:30,401 - INFO - 
+--- Alerts Summary ---
+2024-10-20 14:54:30,401 - INFO - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:30,401 - INFO - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:30,401 - INFO - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:30,401 - INFO - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:30,401 - INFO - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:30,401 - INFO - 
+Fetching weather data...
+2024-10-20 14:54:30,735 - INFO - Weather data for Delhi: {'city': 'Delhi', 'main': 'Haze', 'temp': 34.960000000000036, 'feels_like': 39.10000000000002, 'humidity': 46, 'wind_speed': 1.03, 'dt': '2024-10-20 09:17:50'}
+2024-10-20 14:54:30,735 - INFO - Temperature in Delhi: 34.96°C
+2024-10-20 14:54:30,735 - WARNING - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:31,095 - INFO - Weather data for Mumbai: {'city': 'Mumbai', 'main': 'Haze', 'temp': 31.99000000000001, 'feels_like': 37.670000000000016, 'humidity': 62, 'wind_speed': 3.09, 'dt': '2024-10-20 09:18:28'}
+2024-10-20 14:54:31,095 - INFO - Temperature in Mumbai: 31.99°C
+2024-10-20 14:54:31,095 - WARNING - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:31,440 - INFO - Weather data for Chennai: {'city': 'Chennai', 'main': 'Mist', 'temp': 31.610000000000014, 'feels_like': 38.610000000000014, 'humidity': 77, 'wind_speed': 3.09, 'dt': '2024-10-20 09:23:15'}
+2024-10-20 14:54:31,440 - INFO - Temperature in Chennai: 31.61°C
+2024-10-20 14:54:31,440 - WARNING - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:31,503 - INFO - 
+Program terminated by user.
+2024-10-20 14:54:31,503 - INFO - 
+--- Alerts Summary ---
+2024-10-20 14:54:31,503 - INFO - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:31,503 - INFO - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:31,503 - INFO - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:31,503 - INFO - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:31,503 - INFO - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:31,781 - INFO - Weather data for Bangalore: {'city': 'Bangalore', 'main': 'Clouds', 'temp': 27.720000000000027, 'feels_like': 29.900000000000034, 'humidity': 68, 'wind_speed': 2.06, 'dt': '2024-10-20 09:21:25'}
+2024-10-20 14:54:31,781 - INFO - Temperature in Bangalore: 27.72°C
+2024-10-20 14:54:32,109 - INFO - Weather data for Kolkata: {'city': 'Kolkata', 'main': 'Haze', 'temp': 31.970000000000027, 'feels_like': 35.58000000000004, 'humidity': 55, 'wind_speed': 3.6, 'dt': '2024-10-20 09:20:49'}
+2024-10-20 14:54:32,109 - INFO - Temperature in Kolkata: 31.97°C
+2024-10-20 14:54:32,109 - WARNING - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:32,428 - INFO - Weather data for Hyderabad: {'city': 'Hyderabad', 'main': 'Haze', 'temp': 30.230000000000018, 'feels_like': 33.710000000000036, 'humidity': 62, 'wind_speed': 5.14, 'dt': '2024-10-20 09:21:26'}
+2024-10-20 14:54:32,428 - INFO - Temperature in Hyderabad: 30.23°C
+2024-10-20 14:54:32,428 - WARNING - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:42,432 - INFO - Daily summary calculated
+2024-10-20 14:54:42,432 - INFO - Daily summary saved to daily_weather_summary.csv
+2024-10-20 14:54:42,604 - INFO - Daily summary calculated
+2024-10-20 14:54:42,604 - INFO - 
+--- Alerts Summary ---
+2024-10-20 14:54:42,604 - INFO - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:42,604 - INFO - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:42,604 - INFO - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:42,604 - INFO - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:42,604 - INFO - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:42,604 - INFO - 
+Fetching weather data...
+2024-10-20 14:54:42,947 - INFO - Weather data for Delhi: {'city': 'Delhi', 'main': 'Haze', 'temp': 34.960000000000036, 'feels_like': 39.10000000000002, 'humidity': 46, 'wind_speed': 1.03, 'dt': '2024-10-20 09:17:50'}
+2024-10-20 14:54:42,947 - INFO - Temperature in Delhi: 34.96°C
+2024-10-20 14:54:42,947 - WARNING - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:43,277 - INFO - Weather data for Mumbai: {'city': 'Mumbai', 'main': 'Haze', 'temp': 31.99000000000001, 'feels_like': 37.670000000000016, 'humidity': 62, 'wind_speed': 3.09, 'dt': '2024-10-20 09:18:28'}
+2024-10-20 14:54:43,277 - INFO - Temperature in Mumbai: 31.99°C
+2024-10-20 14:54:43,277 - WARNING - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:43,606 - INFO - Weather data for Chennai: {'city': 'Chennai', 'main': 'Mist', 'temp': 31.610000000000014, 'feels_like': 38.610000000000014, 'humidity': 77, 'wind_speed': 3.09, 'dt': '2024-10-20 09:23:15'}
+2024-10-20 14:54:43,606 - INFO - Temperature in Chennai: 31.61°C
+2024-10-20 14:54:43,606 - WARNING - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:43,937 - INFO - Weather data for Bangalore: {'city': 'Bangalore', 'main': 'Clouds', 'temp': 27.720000000000027, 'feels_like': 29.900000000000034, 'humidity': 68, 'wind_speed': 2.06, 'dt': '2024-10-20 09:21:25'}
+2024-10-20 14:54:43,937 - INFO - Temperature in Bangalore: 27.72°C
+2024-10-20 14:54:44,266 - INFO - Weather data for Kolkata: {'city': 'Kolkata', 'main': 'Haze', 'temp': 31.970000000000027, 'feels_like': 35.58000000000004, 'humidity': 55, 'wind_speed': 3.6, 'dt': '2024-10-20 09:20:49'}
+2024-10-20 14:54:44,266 - INFO - Temperature in Kolkata: 31.97°C
+2024-10-20 14:54:44,266 - WARNING - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:44,564 - INFO - Weather data for Hyderabad: {'city': 'Hyderabad', 'main': 'Haze', 'temp': 30.230000000000018, 'feels_like': 33.710000000000036, 'humidity': 62, 'wind_speed': 5.14, 'dt': '2024-10-20 09:21:26'}
+2024-10-20 14:54:44,564 - INFO - Temperature in Hyderabad: 30.23°C
+2024-10-20 14:54:44,564 - WARNING - Alert: Temperature in Hyderabad exceeds 30°C!
+2024-10-20 14:54:54,579 - INFO - Daily summary calculated
+2024-10-20 14:54:54,579 - INFO - Daily summary saved to daily_weather_summary.csv
+2024-10-20 14:54:54,736 - INFO - Daily summary calculated
+2024-10-20 14:54:54,736 - INFO - 
+--- Alerts Summary ---
+2024-10-20 14:54:54,736 - INFO - Alert: Temperature in Delhi exceeds 30°C!
+2024-10-20 14:54:54,736 - INFO - Alert: Temperature in Mumbai exceeds 30°C!
+2024-10-20 14:54:54,736 - INFO - Alert: Temperature in Chennai exceeds 30°C!
+2024-10-20 14:54:54,736 - INFO - Alert: Temperature in Kolkata exceeds 30°C!
+2024-10-20 14:54:54,736 - INFO - Alert: Temperature in Hyderabad exceeds 30°C!
